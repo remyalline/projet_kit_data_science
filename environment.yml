@@ -1,0 +1,5 @@
+name: ENVNAME
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\remya\Anaconda3\envs\ENVNAME
